@@ -1,9 +1,9 @@
 # go-Golang-go
  using go for what it's claimed good for - concurrency.
 
-<p align="center">
-    ![img](https://www.freecodecamp.org/news/content/images/2022/03/dancing-gopher.gif)
-</p>
+
+![img](https://www.freecodecamp.org/news/content/images/2022/03/dancing-gopher.gif)
+
 
 # Situation:
  You have to send salary to 4 men. You can send the salaries one by one using a for loop. But you want to make a faster parallel operation so that you can go home early.
